@@ -1,0 +1,33 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 09 10:13:59 CST 2025","Wed Apr 09 10:13:59 CST 2025","272","test_case.login","test_login","TestLogin","","","test_login[手机号码为空]","
+        :param :
+        :return:
+        "
+"passed","Wed Apr 09 10:13:57 CST 2025","Wed Apr 09 10:13:58 CST 2025","326","test_case.login","test_login","TestLogin","","","test_login[登录密码为空]","
+        :param :
+        :return:
+        "
+"passed","Wed Apr 09 10:13:57 CST 2025","Wed Apr 09 10:13:57 CST 2025","309","test_case.login","test_login","TestLogin","","","test_login[输入错误的密码]","
+        :param :
+        :return:
+        "
+"passed","Wed Apr 09 10:13:58 CST 2025","Wed Apr 09 10:13:58 CST 2025","343","test_case.login","test_login","TestLogin","","","test_login[输入手机号码小于11位]","
+        :param :
+        :return:
+        "
+"passed","Wed Apr 09 10:13:58 CST 2025","Wed Apr 09 10:13:59 CST 2025","315","test_case.login","test_login","TestLogin","","","test_login[输入手机号码大于于11位]","
+        :param :
+        :return:
+        "
+"passed","Wed Apr 09 10:13:58 CST 2025","Wed Apr 09 10:13:58 CST 2025","363","test_case.login","test_login","TestLogin","","","test_login[输入非1开头的手机号码]","
+        :param :
+        :return:
+        "
+"passed","Wed Apr 09 10:13:59 CST 2025","Wed Apr 09 10:13:59 CST 2025","277","test_case.login","test_login","TestLogin","","","test_login[手机号码首位包含空格]","
+        :param :
+        :return:
+        "
+"failed","Wed Apr 09 10:13:56 CST 2025","Wed Apr 09 10:13:57 CST 2025","383","test_case.login","test_login","TestLogin","","","test_login[正常登录]","
+        :param :
+        :return:
+        "
