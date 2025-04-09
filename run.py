@@ -15,7 +15,7 @@ from utils import config
 
 
 def run():
-    # 从配置文件中获取项目名称
+    # 从配置文件中获取项目名称11
     try:
         INFO.logger.info(
             """
