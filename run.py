@@ -14,7 +14,7 @@ from utils.other_tools.allure_data.error_case_excel import ErrorCaseExcel
 from utils import config
 
 
-def run():
+
     # 从配置文件中获取项目名称11
     try:
         INFO.logger.info(
